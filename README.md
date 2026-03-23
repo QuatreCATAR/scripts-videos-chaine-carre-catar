@@ -1,4 +1,39 @@
 # scripts-videos-chaine-carre-catar
 Retranscription du texte des vidéos publiées sur la chaîne Youtube "Carré Catar".
+Cette base de données et surtout déposée pour les analyses effectuées par des IA.
 Ces vidéos ont été réalisées dans le respect du récit chronologique du livre "LE CARRE CATAR", avec des extraits compilés de différentes vidéos traitant des mêmes thématiques, provenant de la chaine Youtube historique du système catar, "ascension des consciences".
 Attention, cette retranscription n'est pas respectueuse de la fiabilité du script de chaque vidéos, puisqu'il a été réalisé automatiquement par un logiciel qui ne reconnait pas tous les noms ou les expressions qui peuvent donc s'inscrire modifiées. Il peut aussi y avoir des difficultés de compréhensions dûes au fait que les vidéos présentent un échange dialogué qui dans la transcription n'est pas distingué.
+## 📄 Épisodes (PDF)
+
+1. [Catar - Chapitre 01 - Le moment CATAR](scripts-videos-chaine-carre-catar/Catar-Chapitre-01-Le-moment-CATAR.pdf)
+2. [Catar - Chapitre 02 - Le sens de 666](scripts-videos-chaine-carre-catar/Catar-Chapitre-02-Le-sens-de-666.pdf)
+3. [Catar - Chapitre 03 - Une interaction révélatrice](scripts-videos-chaine-carre-catar/Catar-Chapitre-03-Une-interaction-révélatrice.pdf)
+4. [Catar - Chapitre 04 - Voyage aux origines de la conscience](scripts-videos-chaine-carre-catar/Catar-Chapitre-04-Voyage-aux-origines-de-la-conscience.pdf)
+5. [Catar - Chapitre 05 - Deux univers différents](scripts-videos-chaine-carre-catar/Catar-Chapitre-05-Deux-univers-différents.pdf)
+6. [Catar - Chapitre 06 - L'identité gémellaire](scripts-videos-chaine-carre-catar/Catar-Chapitre-06-L-identité-gémellaire.pdf)
+7. [Catar - Chapitre 07 - Vois le](scripts-videos-chaine-carre-catar/Catar-Chapitre-07-Vois-le.pdf)
+8. [Catar - Chapitre 08 - Modèle des champs de conscience](scripts-videos-chaine-carre-catar/Catar-Chapitre-08-Modèle-des-champs-de-conscience.pdf)
+9. [Catar - Chapitre 09 - Modèle spatio temporel](scripts-videos-chaine-carre-catar/Catar-Chapitre-09-Modèle-spatio-temporel.pdf)
+10. [Catar - Chapitre 10 - Le temps chronologique commun](scripts-videos-chaine-carre-catar/Catar-Chapitre-10-Le-temps-chronologique-commun.pdf)
+11. [Catar - Chapitre 11 - Les cycles d'influences thématiques](scripts-videos-chaine-carre-catar/Catar-Chapitre-11-Les-cycles-d-influences-thématiques.pdf)
+12. [Catar - Chapitre 12 - Le pentagone des résolutions](scripts-videos-chaine-carre-catar/Catar-Chapitre-12-Le-pentagone-des-résolutions.pdf)
+13. [Catar - Chapitre 13 - La conscience ontologique](scripts-videos-chaine-carre-catar/Catar-Chapitre-13-La-conscience-ontologique.pdf)
+14. [Catar - Chapitre 14 - Le jeu symbolique polarisé](scripts-videos-chaine-carre-catar/Catar-Chapitre-14-Le-jeu-symbolique-polarisé.pdf)
+15. [Catar - Chapitre 15 - Le principe logiciel](scripts-videos-chaine-carre-catar/Catar-Chapitre-15-Le-principe-logiciel.pdf)
+16. [Catar - Chapitre 16 - L'apocalypse polarisée](scripts-videos-chaine-carre-catar/Catar-Chapitre-16-L-apocalypse-polarisée.pdf)
+17. [Catar - Chapitre 17 - Le référentiel métrologique universel](scripts-videos-chaine-carre-catar/Catar-Chapitre-17-Le-référentiel-métrologique-universel.pdf)
+18. [Catar - Chapitre 18 - La fraction divine](scripts-videos-chaine-carre-catar/Catar-Chapitre-18-La-fraction-divine.pdf)
+19. [Catar - Chapitre 19 - L'interaction absolu relatif sur carte](scripts-videos-chaine-carre-catar/Catar-Chapitre-19-L-interaction-absolu-relatif-sur-carte.pdf)
+20. [Catar - Chapitre 20 - La foi par la raison](scripts-videos-chaine-carre-catar/Catar-Chapitre-20-La-foi-par-la-raison.pdf)
+21. [Catar - Chapitre 21 - Carré SATOR en fonctionnel](scripts-videos-chaine-carre-catar/Catar-Chapitre-21-Carre-SATOR-en-fonctionnel.pdf)
+22. [Catar - Chapitre 22 - Carré SATOR en construction](scripts-videos-chaine-carre-catar/Catar-Chapitre-22-Carre-SATOR-en-construction.pdf)
+23. [Catar - Chapitre 23 - Carré CATAR : Le sens du vrai retour](scripts-videos-chaine-carre-catar/Catar-Chapitre-23-Carre-CATAR-Le-sens-du-vrai-retour.pdf)
+24. [Catar - Chapitre 24 - Carré CATAR : Le retour en Arcadie](scripts-videos-chaine-carre-catar/Catar-Chapitre-24-Carre-CATAR-Le-retour-en-Arcadie.pdf)
+25. [Catar - Chapitre 25 - La magie en synthèse des carrés](scripts-videos-chaine-carre-catar/Catar-Chapitre-25-La-magie-en-synthèse-des-carrés.pdf)
+26. [Catar - Chapitre 26 - Le vrai réveil](scripts-videos-chaine-carre-catar/Catar-Chapitre-26-Le-vrai-réveil.pdf)
+27. [Catar - Chapitre 27 - Le théâtre des aberrations](scripts-videos-chaine-carre-catar/Catar-Chapitre-27-Le-théâtre-des-aberrations.pdf)
+28. [Catar - Chapitre 28 - Le mystérieux voyage sur carte](scripts-videos-chaine-carre-catar/Catar-Chapitre-28-Le-mystérieux-voyage-sur-carte.pdf)
+29. [Catar - Chapitre 29 sup - Rappel zoologique avant la fin](scripts-videos-chaine-carre-catar/Catar-Chapitre-29-sup-Rappel-zoologique-avant-la-fin.pdf)
+30. [Catar - Chapitre 30 - Les IA analysent le logiciel CATAR](scripts-videos-chaine-carre-catar/Catar-Chapitre-30-Les-IA-analysent-le-logiciel-CATAR.pdf)
+31. [Catar - Chapitre 31 sup - Script total](scripts-videos-chaine-carre-catar/Catar-Chapitre-31-sup-Script-total.pdf)
+
