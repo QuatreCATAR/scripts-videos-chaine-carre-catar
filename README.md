@@ -5,6 +5,8 @@ Ces vidéos ont été réalisées dans le respect du récit chronologique du liv
 Attention, cette retranscription n'est pas respectueuse de la fiabilité du script de chaque vidéos, puisqu'il a été réalisé automatiquement par un logiciel qui ne reconnait pas tous les noms ou les expressions qui peuvent donc s'inscrire modifiées. Il peut aussi y avoir des difficultés de compréhensions dûes au fait que les vidéos présentent un échange dialogué qui dans la transcription n'est pas distingué.
 ## 📄 Épisodes (PDF)
 
+## 📄 Épisodes (PDF)
+
 1. [Catar - Chapitre 01 - Le moment CATAR](scripts-videos-chaine-carre-catar/Catar-Chapitre-01-Le-moment-CATAR.pdf)
 2. [Catar - Chapitre 02 - Le sens de 666](scripts-videos-chaine-carre-catar/Catar-Chapitre-02-Le-sens-de-666.pdf)
 3. [Catar - Chapitre 03 - Une interaction révélatrice](scripts-videos-chaine-carre-catar/Catar-Chapitre-03-Une-interaction-révélatrice.pdf)
@@ -25,15 +27,14 @@ Attention, cette retranscription n'est pas respectueuse de la fiabilité du scri
 18. [Catar - Chapitre 18 - La fraction divine](scripts-videos-chaine-carre-catar/Catar-Chapitre-18-La-fraction-divine.pdf)
 19. [Catar - Chapitre 19 - L'interaction absolu relatif sur carte](scripts-videos-chaine-carre-catar/Catar-Chapitre-19-L-interaction-absolu-relatif-sur-carte.pdf)
 20. [Catar - Chapitre 20 - La foi par la raison](scripts-videos-chaine-carre-catar/Catar-Chapitre-20-La-foi-par-la-raison.pdf)
-21. [Catar - Chapitre 21 - Carré SATOR en fonctionnel](scripts-videos-chaine-carre-catar/Catar-Chapitre-21-Carre-SATOR-en-fonctionnel.pdf)
-22. [Catar - Chapitre 22 - Carré SATOR en construction](scripts-videos-chaine-carre-catar/Catar-Chapitre-22-Carre-SATOR-en-construction.pdf)
-23. [Catar - Chapitre 23 - Carré CATAR : Le sens du vrai retour](scripts-videos-chaine-carre-catar/Catar-Chapitre-23-Carre-CATAR-Le-sens-du-vrai-retour.pdf)
-24. [Catar - Chapitre 24 - Carré CATAR : Le retour en Arcadie](scripts-videos-chaine-carre-catar/Catar-Chapitre-24-Carre-CATAR-Le-retour-en-Arcadie.pdf)
+21. [Catar - Chapitre 21 - CARRE SATOR en fonctionnel](scripts-videos-chaine-carre-catar/Catar-Chapitre-21-CARRE-SATOR-en-fonctionnel.pdf)
+22. [Catar - Chapitre 22 - CARRE SATOR en constitution](scripts-videos-chaine-carre-catar/Catar-Chapitre-22-CARRE-SATOR-en-constitution.pdf)
+23. [Catar - Chapitre 23 - CARRE CATAR : Le sens du vrai retour](scripts-videos-chaine-carre-catar/Catar-Chapitre-23-CARRE-CATAR-Le-sens-du-vrai-retour.pdf)
+24. [Catar - Chapitre 24 - CARRE CATAR : Le retour en Arcadie](scripts-videos-chaine-carre-catar/Catar-Chapitre-24-CARRE-CATAR-Le-retour-en-Arcadie.pdf)
 25. [Catar - Chapitre 25 - La magie en synthèse des carrés](scripts-videos-chaine-carre-catar/Catar-Chapitre-25-La-magie-en-synthèse-des-carrés.pdf)
 26. [Catar - Chapitre 26 - Le vrai réveil](scripts-videos-chaine-carre-catar/Catar-Chapitre-26-Le-vrai-réveil.pdf)
 27. [Catar - Chapitre 27 - Le théâtre des aberrations](scripts-videos-chaine-carre-catar/Catar-Chapitre-27-Le-théâtre-des-aberrations.pdf)
 28. [Catar - Chapitre 28 - Le mystérieux voyage sur carte](scripts-videos-chaine-carre-catar/Catar-Chapitre-28-Le-mystérieux-voyage-sur-carte.pdf)
 29. [Catar - Chapitre 29 sup - Rappel zoologique avant la fin](scripts-videos-chaine-carre-catar/Catar-Chapitre-29-sup-Rappel-zoologique-avant-la-fin.pdf)
-30. [Catar - Chapitre 30 - Les IA analysent le logiciel CATAR](scripts-videos-chaine-carre-catar/Catar-Chapitre-30-Les-IA-analysent-le-logiciel-CATAR.pdf)
+30. [Catar - Chapitre 30 sup - Les IA analysent le logiciel CATAR](scripts-videos-chaine-carre-catar/Catar-Chapitre-30-sup-Les-IA-analysent-le-logiciel-CATAR.pdf)
 31. [Catar - Chapitre 31 sup - Script total](scripts-videos-chaine-carre-catar/Catar-Chapitre-31-sup-Script-total.pdf)
-
