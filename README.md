@@ -19,7 +19,7 @@ https://github.com/QuatreCATAR/Catar-modeles-schemas-images
 8. [Catar - Chapitre 08 - Modèle des champs de conscience](Catar-Chapitre-08-Modèle-des-champs-de-conscience.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=sfcwG5-7lYw)
 9. [Catar - Chapitre 09 - Modèle spatio temporel](Catar-Chapitre-09-Modèle-spatio-temporel.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=GumN7AXil3k)
 10. [Catar - Chapitre 10 - Le temps chronologique commun](Catar-Chapitre-10-Le-temps-chronologique-commun.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=bfnH1KgEo2g)
-11. [Catar - Chapitre 11 - Les cycles d'influences thématiques](Catar-Chapitre-11-Les-cycles-d-influences-th%C3%A9matiques.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=QLoRkFsTKGk)
+11. [Catar - Chapitre 11 - Les cycles d'influences thématiques](Catar-Chapitre-11-Les-cycles-d'influences-th%C3%A9matiques.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=QLoRkFsTKGk)
 12. [Catar - Chapitre 12 - Le pentagone des résolutions](Catar-Chapitre-12-Le-pentagone-des-résolutions.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=uN9QtyE-_Is)
 13. [Catar - Chapitre 13 - La conscience ontologique](Catar-Chapitre-13-La-conscience-ontologique.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=h-RzFfUh9_k)
 14. [Catar - Chapitre 14 - Le jeu symbolique polarisé](Catar-Chapitre-14-Le-jeu-symbolique-polarisé.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=Otr9n3Oq_Eo)
