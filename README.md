@@ -27,7 +27,7 @@ https://github.com/QuatreCATAR/Catar-modeles-schemas-images
 16. [Catar - Chapitre 16 - L'apocalypse polarisée](Catar-Chapitre-16-L'apocalypse-polarisée.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=pwZiLqUs7rM)
 17. [Catar - Chapitre 17 - Le référentiel métrologique universel](Catar-Chapitre-17-Le-référentiel-métrologique-universel.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=KVshRvOnilc)
 18. [Catar - Chapitre 18 - La fraction divine](Catar-Chapitre-18-La-fraction-divine.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=8ZFRzYymAck)
-19. [Catar - Chapitre 19 - L'interaction absolu relatif sur carte](Catar-Chapitre-19-L-interaction-absolu-relatif-sur-carte.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=VjF1Qb3KIe0)
+19. [Catar - Chapitre 19 - L'interaction absolu relatif sur carte](Catar-Chapitre-19-L'interaction-absolu-relatif-sur-carte.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=VjF1Qb3KIe0)
 20. [Catar - Chapitre 20 - La foi par la raison](Catar-Chapitre-20-La-foi-par-la-raison.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=bueBOA4Ox-w)
 21. [Catar - Chapitre 21 - CARRE SATOR en fonctionnel](Catar-Chapitre-21-CARRE-SATOR-en-fonctionnel.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=F36DFk_yd1w)
 22. [Catar - Chapitre 22 - CARRE SATOR en constitution](Catar-Chapitre-22-CARRE-SATOR-en-constitution.pdf) . [Voir-video-Youtube](https://www.youtube.com/watch?v=406MChxQLtw)
