@@ -9,7 +9,7 @@ https://github.com/QuatreCATAR/Catar-modeles-schemas-images
 
 ## 📄 Épisodes (PDF)
 
-1. [Catar - Chapitre 01 - Le moment CATAR](Catar-Chapitre-01-Le-moment-CATAR.pdf)
+1. [Catar - Chapitre 01 - Le moment CATAR](Catar-Chapitre-01-Le-moment-CATAR.pdf) . [Video](https://www.youtube.com/watch?v=0tdiSTVKN6Q)
 2. [Catar - Chapitre 02 - Le sens de 666](Catar-Chapitre-02-Le-sens-de-666.pdf)
 3. [Catar - Chapitre 03 - Une interaction révélatrice](Catar-Chapitre-03-Une-interaction-révélatrice.pdf)
 4. [Catar - Chapitre 04 - Voyage aux origines de la conscience](Catar-Chapitre-04-Voyage-aux-origines-de-la-conscience.pdf)
